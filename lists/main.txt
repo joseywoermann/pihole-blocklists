@@ -1,1 +1,6 @@
-
+x.chip.de
+downloaderapi.chip.de
+api.chip-secured-download.de
+chip-secured-download.de
+adtm.chip.de
+(\.|^)adnxs-simple\.com$
