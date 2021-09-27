@@ -5,3 +5,5 @@ chip-secured-download.de
 adtm.chip.de
 (\.|^)adnxs-simple\.com$
 (\.|^)akamaized\.net$
+tiktok.com
+www.tiktok.com
