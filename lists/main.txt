@@ -1,5 +1,6 @@
 x.chip.de
 downloaderapi.chip.de
+chip-cluster.de
 api.chip-secured-download.de
 chip-secured-download.de
 adtm.chip.de
