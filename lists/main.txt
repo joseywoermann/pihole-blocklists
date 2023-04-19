@@ -6,9 +6,3 @@ chip-secured-download.de
 adtm.chip.de
 (\.|^)adnxs-simple\.com$
 (\.|^)akamaized\.net$
-tiktok.com
-www.tiktok.com
-lf16-tiktok-common.ibytedtos.com
-p16-sign-va.tiktokcdn.com
-s20.tiktokcdn.com
-(\.|^)tiktokcdn\.com$
