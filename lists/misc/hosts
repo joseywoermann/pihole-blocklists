@@ -1,0 +1,29 @@
+# ========================================================================
+
+# joseys personal blocklist - Miscellaneous Domains
+
+#
+
+# This hosts file compiles domains that serve ads and are not on any of the blocklists I use in my Pi-Hole instance.
+
+# Some of these domains are also used for other purposes such as tracking or are generally not already blocked.
+
+#
+
+# Blocked domains: 3
+
+#
+
+# Last modified: 2024-01-28 - 19:05:00 UTC
+
+# Website: https://github.com/joseywoermann/pihole-blocklists
+
+# Download: https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/misc/hosts
+
+#
+
+# ========================================================================
+
+0.0.0.0 (\.|^)bet365\.(com|de)$
+0.0.0.0 (\.|^)cleverwebserver\.com$
+0.0.0.0 download.heise.de

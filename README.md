@@ -6,6 +6,17 @@ My personal Pi-hole blocklists, mean to be used in addition to a comprehensive b
 
 ## Modules
 
+### Miscellaneous
+
+Download:
+
+```
+https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/misc/hosts
+```
+
+GitHub:
+https://github.com/joseywoermann/pihole-blocklists/tree/main/lists/misc
+
 ### TikTok
 
 Download:
