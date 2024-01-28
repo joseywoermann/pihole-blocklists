@@ -1,4 +1,4 @@
-# joseys personal blocklist - chip.de extension
+# josey's personal blocklist - chip.de extension
 
 This hosts file compiles domains used by chip.de's downloads server which is known for being an ad- & malware-hotspot.
 

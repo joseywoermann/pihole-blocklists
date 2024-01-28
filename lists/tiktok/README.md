@@ -1,4 +1,4 @@
-# joseys personal blocklist - TikTok extension
+# josey's personal blocklist - TikTok extension
 
 This hosts file compiles domains used by TikTok.
 
