@@ -6,7 +6,7 @@ My personal Pi-hole blocklists, mean to be used in addition to a comprehensive b
 
 ## Modules
 
-### TIKTOK
+### TikTok
 
 Download:
 
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/joseywoermann/pihole-blocklist/main/lists/tikt
 GitHub:
 https://github.com/joseywoermann/pihole-blocklist/tree/main/lists/tiktok
 
-### CHIP
+### chip.de Downloads
 
 Download:
 
