@@ -10,11 +10,11 @@
 
 #
 
-# Blocked domains: 3
+# Blocked domains: 21
 
 #
 
-# Last modified: 2024-01-28 - 19:32:00 UTC
+# Last modified: 2024-01-29 - 13:03:00 UTC
 
 # Website: https://github.com/joseywoermann/pihole-blocklists
 
@@ -24,6 +24,24 @@
 
 # ========================================================================
 
-0.0.0.0 (\.|^)bet365\.(com|de)$
-0.0.0.0 (\.|^)cleverwebserver\.com$
+0.0.0.0 ads-static.conde.digital
+0.0.0.0 cdn-de.f11-ads.com
+0.0.0.0 cleverwebserver.com
+0.0.0.0 call.cleverwebserver.com
+0.0.0.0 ip.cleverwebserver.com
+0.0.0.0 scripts.cleverwebserver.com
+0.0.0.0 sender.cleverwebserver.com
+0.0.0.0 ui.cleverwebserver.com
 0.0.0.0 download.heise.de
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 members.bet365.de
+0.0.0.0 player-telemetry.vimeo.com
+0.0.0.0 prod-telemetry.paradox-interactive.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 telemetry.transcend.io
+0.0.0.0 tracking.digitalocean.com
+0.0.0.0 tracking.fupa.net
+0.0.0.0 tracking.haller-kreisblatt.de
+0.0.0.0 tracking.nw.de
+0.0.0.0 tracking-protection.prod.mozaws.net
+0.0.0.0 tracking-protection.cdn.mozilla.net
