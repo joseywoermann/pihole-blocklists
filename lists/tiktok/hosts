@@ -1,25 +1,14 @@
 # ========================================================================
-
 # joseys personal blocklist - TIKTOK extension
-
 #
-
 # This hosts file compiles domains used by TikTok.
-
 #
-
 # Blocked domains: 8
-
 #
-
 # Last modified: 2024-01-29 - 12:57:00 UTC
-
 # Website: https://github.com/joseywoermann/pihole-blocklists
-
 # Download: https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/tiktok/hosts
-
 #
-
 # ========================================================================
 
 0.0.0.0 tiktok.com
