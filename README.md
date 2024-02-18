@@ -38,3 +38,14 @@ https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/chi
 
 GitHub:
 https://github.com/joseywoermann/pihole-blocklists/tree/main/lists/chip
+
+### Temu
+
+Download:
+
+```
+https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/temu/hosts
+```
+
+GitHub:
+https://github.com/joseywoermann/pihole-blocklists/tree/main/lists/temu
