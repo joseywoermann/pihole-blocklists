@@ -1,0 +1,19 @@
+# ========================================================================
+# joseys personal blocklist - Temu extension
+#
+# This hosts file compiles domains used by Temu.
+#
+# Blocked domains: 6
+#
+# Last modified: 2024-02-18 - 20:28:00 UTC
+# Website: https://github.com/joseywoermann/pihole-blocklists
+# Download: https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/temu/hosts
+#
+# ========================================================================
+
+0.0.0.0 temu.com
+0.0.0.0 temudebug.com
+0.0.0.0 www.temu.com
+0.0.0.0 eu.pftk.temu.com
+0.0.0.0 eu.thtk.temu.com
+0.0.0.0 gw-c-eu.temu.com
