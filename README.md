@@ -1,6 +1,6 @@
 # pihole-blocklists
 
-My personal Pi-hole blocklists, mean to be used in addition to a comprehensive blocklist such as [StevenBlack/hosts](https://github.com/StevenBlack/hosts).
+My personal Pi-hole blocklists, meant to be used in addition to a comprehensive blocklist such as [StevenBlack/hosts](https://github.com/StevenBlack/hosts).
 
 ---
 

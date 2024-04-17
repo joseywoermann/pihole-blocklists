@@ -3,9 +3,9 @@
 This hosts file compiles domains that serve ads and are not on any of the blocklists I use in my Pi-Hole instance.
 Some of these domains are also used for other purposes such as tracking or are generally not already blocked.
 
-Blocked domains:
+Blocked domains: 23
 
-Last modified: 2024-01-28 - 19:32:00 UTC
+Last modified: 2024-04-17 - 18:22:00 UTC
 
 Website: https://github.com/joseywoermann/pihole-blocklists
 
