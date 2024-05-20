@@ -6,7 +6,7 @@
 #
 # Blocked domains: 23
 #
-# Last modified: 2024-04-17 - 18:22:00 UTC
+# Last modified: 2024-05-20 - 20:20:00 UTC
 # Website: https://github.com/joseywoermann/pihole-blocklists
 # Download: https://raw.githubusercontent.com/joseywoermann/pihole-blocklists/main/lists/misc/hosts
 #
@@ -34,3 +34,4 @@
 0.0.0.0 tracking-protection.cdn.mozilla.net
 0.0.0.0 b0.w.kicker.de
 0.0.0.0 b1.t.kicker.de
+0.0.0.0 i0.gmx.net

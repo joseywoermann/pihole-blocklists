@@ -5,7 +5,7 @@ Some of these domains are also used for other purposes such as tracking or are g
 
 Blocked domains: 23
 
-Last modified: 2024-04-17 - 18:22:00 UTC
+Last modified: 2024-05-20 - 20:20:00 UTC
 
 Website: https://github.com/joseywoermann/pihole-blocklists
 
